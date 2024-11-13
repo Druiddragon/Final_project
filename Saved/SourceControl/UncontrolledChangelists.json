@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/sksol/OneDrive/Documents/GitHub/Final_project/Content/NewWorld.umap",
+				"C:/Users/sksol/OneDrive/Documents/GitHub/Final_project/Content/whitebox.umap",
+				"C:/Users/sksol/OneDrive/Documents/GitHub/Final_project/Content/scale.uasset",
+				"C:/Users/sksol/OneDrive/Documents/GitHub/Final_project/Content/models/scale.uasset",
 				"C:/Users/sksol/OneDrive/Documents/Unreal Projects/Final_project/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
